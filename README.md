@@ -16,6 +16,6 @@ Une implémentation de thème sombre plus avancée qui utilise PHP pour permettr
  4. Ouvrez un navigateur web et accédez à l'URL correspondante à votre serveur et au répertoire du projet (par exemple, http://localhost/darkmode2).
  5. Vous devriez maintenant voir le thème sombre en action. Vous pouvez basculer entre les thèmes clair et sombre en cliquant sur le bouton correspondant.
 
-##Auteur
+## Auteur
 
 QAEZE Noel
